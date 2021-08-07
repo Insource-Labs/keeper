@@ -1,0 +1,4 @@
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Insource Labs. All rights reserved 2020 - Present.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
